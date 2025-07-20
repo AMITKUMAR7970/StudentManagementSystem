@@ -1,0 +1,11 @@
+StudentID,FirstName,LastName,Email,Age,PhoneNumber,Address,GPA,Major
+1001,"John","Smith","john.smith@email.com",20,"(555) 123-4567","123 Main St, City, State 12345",3.85,"Computer Science"
+1002,"Emma","Johnson","emma.johnson@email.com",19,"(555) 234-5678","456 Oak Ave, City, State 12345",3.92,"Engineering"
+1003,"Michael","Brown","michael.brown@email.com",21,"(555) 345-6789","789 Pine Rd, City, State 12345",3.45,"Mathematics"
+1004,"Sarah","Davis","sarah.davis@email.com",20,"(555) 456-7890","321 Elm St, City, State 12345",3.67,"Physics"
+1005,"David","Wilson","david.wilson@email.com",22,"(555) 567-8901","654 Maple Dr, City, State 12345",3.23,"Chemistry"
+1006,"Lisa","Anderson","lisa.anderson@email.com",19,"(555) 678-9012","987 Cedar Ln, City, State 12345",3.78,"Biology"
+1007,"James","Taylor","james.taylor@email.com",21,"(555) 789-0123","147 Birch Way, City, State 12345",3.56,"Psychology"
+1008,"Maria","Garcia","maria.garcia@email.com",20,"(555) 890-1234","258 Spruce St, City, State 12345",3.89,"Business"
+1009,"Robert","Martinez","robert.martinez@email.com",22,"(555) 901-2345","369 Willow Ave, City, State 12345",3.12,"History"
+1010,"Jennifer","Lee","jennifer.lee@email.com",19,"(555) 012-3456","741 Aspen Rd, City, State 12345",3.94,"Literature"
